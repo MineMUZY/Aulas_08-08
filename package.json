@@ -1,0 +1,19 @@
+{
+  "name": "aulas_08-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MineMUZY/Aulas_08-08.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MineMUZY/Aulas_08-08/issues"
+  },
+  "homepage": "https://github.com/MineMUZY/Aulas_08-08#readme"
+}
